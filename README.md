@@ -141,7 +141,7 @@
 
 - Spring AI GitHub Discussions
 - 阿里云开发者社区 SCA 专栏
-- 公众号「**Java AI 实战派**」（不定时更新）
+- 公众号「**Java程序员面试宝典**」（不定时更新）
 
 ---
 
@@ -171,12 +171,12 @@ A：看[篇 2 选型指南](../framework-compare)。默认建议：先 Spring AI
 | 篇1 | 干了 13 年 Java，AI 时代我不是被淘汰，而是被重新定价 | 本仓库 |
 | 篇2 | Spring AI vs LangChain4j vs Spring AI Alibaba：2026 终极选型指南 | [framework-compare](../framework-compare) |
 | 篇3 | Spring AI 2.0 GA 实战：从 0 到 1 搭建企业级 ChatClient | [framework-compare](../framework-compare) |
-| 篇4 | RAG 准确率从 32% 干到 89% | rag-in-action（规划中） |
-| 篇5 | 把 @Tool 一键暴露成 MCP Server | mcp-in-action（规划中） |
-| 篇6 | 企业级 Multi-Agent 实战 | multi-agent-in-action（规划中） |
-| 篇7 | 多模型路由与故障转移 | model-routing-in-action（规划中） |
-| 篇8 | AI Agent 可观测 + Token FinOps | observability-in-action（规划中） |
-| 篇9 | Prompt Injection 真实复盘 | ai-security-in-action（规划中） |
+| 篇4 | RAG 准确率从 32% 干到 89% | [framework-compare/benchmarks/rag](../framework-compare/tree/main/benchmarks/rag) |
+| 篇5 | 把 @Tool 一键暴露成 MCP Server | [mcp-in-action](../mcp-in-action) |
+| 篇6 | 企业级 Multi-Agent 实战 | [multi-agent-in-action](../multi-agent-in-action) |
+| 篇7 | 多模型路由与故障转移 | [model-router-in-action](../model-router-in-action) |
+| 篇8 | AI Agent 可观测 + Token FinOps | [ai-observability-in-action](../ai-observability-in-action) |
+| 篇9 | Prompt Injection 真实复盘 | [ai-security-in-action](../ai-security-in-action) |
 | 篇10 | 33 岁 Java 后端转 AI 的真实账单 | 本仓库（更新） |
 
 ---
